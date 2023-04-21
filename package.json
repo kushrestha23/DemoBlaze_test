@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "test" : "mocha *.test.js --timeout 10000 --exit"
+  },
+
+  "dependencies": {
+
+    "chai": "^4.3.7",
+
+    "jasmine": "^4.6.0",
+
+    "mocha": "^10.2.0",
+
+    "selenium-webdriver": "^4.8.2"
+
+  },
+
+  "devDependencies": {
+
+    "@types/chai": "^4.3.4",
+
+    "@types/jest": "^29.5.1",
+
+    "@types/selenium-webdriver": "^4.1.13"
+
+  }
+
+}
+
